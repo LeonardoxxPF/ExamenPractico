@@ -11,7 +11,7 @@ El programa Palíndromo comprueba si una palabra ingresada por el usuario es un 
 Para ejecutar el programa Palíndromo, sigue estos pasos:
 
 1. Abre la terminal o línea de comandos.
-2. Navega al directorio donde se encuentra el archivo Palindromo.java.
+2. Navega al directorio donde se encuentra el archivo `Palindromo.java`.
 3. Compila el archivo Java con el comando `javac Palindromo.java`.
 4. Ejecuta el programa compilado con el comando `java Palindromo`.
 5. Sigue las instrucciones en pantalla para ingresar una palabra y verificar si es un palíndromo.
